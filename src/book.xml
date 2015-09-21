@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><world>
+    <country>
+        <province name="huzi">海南省</province>
+        <province name="yeqf">河北省</province>
+    </country>
+    <country>
+        <province name="henan">河南省</province>
+    </country>
+</world>

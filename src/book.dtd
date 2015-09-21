@@ -1,0 +1,4 @@
+<!ELEMENT world (country+)>
+<!ELEMENT country (province+)>
+<!ELEMENT province (#PCDATA)>
+<!ATTLIST province name ID #IMPLIED>
